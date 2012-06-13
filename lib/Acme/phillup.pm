@@ -1,6 +1,6 @@
 package Acme::phillup;
 
-use 5.006;
+use 5.006
 use strict;
 use warnings;
 
@@ -10,23 +10,16 @@ Acme::phillup - The great new Acme::phillup!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
 
-Quick summary of what the module does.
-
-Perhaps a little code snippet.
-
-    use Acme::phillup;
-
-    my $foo = Acme::phillup->new();
-    ...
+This is just a quickie module being created during a workshop at YAPC::NA 2012 by brian d foy
 
 =head1 EXPORT
 
