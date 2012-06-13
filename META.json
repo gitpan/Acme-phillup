@@ -1,5 +1,5 @@
 {
-   "abstract" : "The great new Acme::phillup!",
+   "abstract" : "Test module for YAPC::NA 2012",
    "author" : [
       "Phillip W. Upton <test@philsplace.org>"
    ],
@@ -36,6 +36,6 @@
          }
       }
    },
-   "release_status" : "stable",
-   "version" : "0.02"
+   "release_status" : "testing",
+   "version" : "0.02_01"
 }

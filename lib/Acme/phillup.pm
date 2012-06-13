@@ -6,7 +6,7 @@ use warnings;
 
 =head1 NAME
 
-Acme::phillup - The great new Acme::phillup!
+Acme::phillup - Test module for YAPC::NA 2012
 
 =head1 VERSION
 
@@ -14,7 +14,7 @@ Version 0.02
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.02_01';
 
 
 =head1 SYNOPSIS
