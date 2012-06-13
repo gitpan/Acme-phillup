@@ -10,11 +10,11 @@ Acme::phillup - Test module for YAPC::NA 2012
 
 =head1 VERSION
 
-Version 0.03
+Version 0.02
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.02_02';
 
 
 =head1 SYNOPSIS
@@ -28,17 +28,11 @@ if you don't export anything, such as for a purely object-oriented module.
 
 =head1 SUBROUTINES/METHODS
 
-=head2 sum
-
-  sum-thing
+=head2 function1
 
 =cut
 
-sub sum {
-  my $sum = 0;
-  foreach my $num (@_){
-    $sum += $num;
-  }
+sub function1 {
 }
 
 =head2 function2
